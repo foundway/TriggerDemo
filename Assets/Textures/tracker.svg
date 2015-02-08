@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="tracker.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="247.72288"
+     inkscape:cy="562.47018"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-grids="true"
+     inkscape:window-width="2063"
+     inkscape:window-height="1331"
+     inkscape:window-x="278"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2987"
+       units="in"
+       empspacing="20"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.065in"
+       spacingy="0.065in"
+       originx="-0.4in"
+       originy="-0.1in" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="BG" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2985"
+       width="234"
+       height="351"
+       x="81"
+       y="125.36218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2989"
+       sodipodi:cx="549"
+       sodipodi:cy="242.36218"
+       sodipodi:rx="117"
+       sodipodi:ry="117"
+       d="m 666,242.36218 a 117,117 0 1 1 -234,0 117,117 0 1 1 234,0 z"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:2.19981837;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3762"
+       width="210.59999"
+       height="327.59998"
+       x="92.699997"
+       y="137.06218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.24099016;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3764"
+       width="187.2"
+       height="181.35002"
+       x="104.40001"
+       y="207.26218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path3766-2-2"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 220.30974,268.35575 10.82781,0 0,10.74588 m -11.50455,50.03765 10.82781,0 0,-10.74588 m -53.05626,-50.03765 -10.82781,0 0,10.74588 m 11.50455,50.03765 -10.82781,0 0,-10.74588"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3812"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3814"><rect
+           id="rect3816"
+           width="185"
+           height="52.857143"
+           x="106.42857"
+           y="148.07646" /></flowRegion><flowPara
+         id="flowPara3818"></flowPara></flowRoot>    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125.20547,346.06229 -12.60152,0"
+       id="path3961"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125.20547,328.20299 -12.60152,0"
+       id="path3959"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 134.87567,310.34371 -22.27172,0"
+       id="path3957"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125.20547,292.48442 -12.60152,0"
+       id="path3955"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125.20547,274.62512 -12.60152,0"
+       id="path3953"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125.20547,256.76583 -12.60152,0"
+       id="path3951"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125.20547,238.90654 -12.60152,0"
+       id="path3949"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 133.4389,221.04725 -20.83495,0"
+       id="path3828-7-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 140.21082,366.99028 0,12.60152"
+       id="path3963-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 158.07011,366.99028 0,12.60152"
+       id="path3961-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 175.92941,366.99028 0,12.60152"
+       id="path3959-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 193.78869,357.32008 0,22.27172"
+       id="path3957-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 211.64798,366.99028 0,12.60152"
+       id="path3955-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 229.50728,366.99028 0,12.60152"
+       id="path3953-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 247.36657,366.99028 0,12.60152"
+       id="path3951-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 265.22586,366.99028 0,12.60152"
+       id="path3949-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4024"
+       width="12.121831"
+       height="12.121831"
+       x="115.11678"
+       y="364.99399"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 280.45437,357.35305 0,22.27172"
+       id="path3957-0-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4024-5"
+       width="12.121831"
+       height="12.121831"
+       x="105.86765"
+       y="150.01555"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4024-5-8"
+       width="12.121831"
+       height="12.121831"
+       x="105.86765"
+       y="168.01555"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4024-5-89"
+       width="12.121831"
+       height="12.121831"
+       x="105.43909"
+       y="185.80127"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4091"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4093"><rect
+           id="rect4095"
+           width="23.571428"
+           height="42.5"
+           x="29.285715"
+           y="211.64789" /></flowRegion><flowPara
+         id="flowPara4097"></flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4024-7"
+       width="12.121831"
+       height="12.121831"
+       x="156.66316"
+       y="209.51553"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4024-7-6"
+       width="12.121831"
+       height="12.121831"
+       x="189.59645"
+       y="209.51553"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4024-7-61"
+       width="12.121831"
+       height="12.121831"
+       x="223.8383"
+       y="210.02061"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4024-7-6-9"
+       width="12.121831"
+       height="12.121831"
+       x="256.77161"
+       y="210.02061"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4156"
+       sodipodi:sides="3"
+       sodipodi:cx="326.78436"
+       sodipodi:cy="265.45334"
+       sodipodi:r1="16.288219"
+       sodipodi:r2="8.1441097"
+       sodipodi:arg1="3.1415927"
+       sodipodi:arg2="4.1887902"
+       inkscape:flatsided="true"
+       inkscape:rounded="-1.0408341e-17"
+       inkscape:randomized="0"
+       d="m 310.49614,265.45334 24.43233,-14.10601 0,28.21202 z"
+       inkscape:transform-center-x="3.5223277"
+       transform="translate(-42.426407,34.345186)"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4156-8"
+       sodipodi:sides="3"
+       sodipodi:cx="326.78436"
+       sodipodi:cy="265.45334"
+       sodipodi:r1="16.288219"
+       sodipodi:r2="8.1441097"
+       sodipodi:arg1="3.1415927"
+       sodipodi:arg2="4.1887902"
+       inkscape:flatsided="true"
+       inkscape:rounded="-1.0408341e-17"
+       inkscape:randomized="0"
+       d="m 310.49614,265.45334 24.43233,-14.10601 0,28.21202 z"
+       inkscape:transform-center-x="3.5223277"
+       transform="translate(-42.426403,-1.5600795e-6)"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4156-8-7"
+       sodipodi:sides="3"
+       sodipodi:cx="326.78436"
+       sodipodi:cy="265.45334"
+       sodipodi:r1="16.288219"
+       sodipodi:r2="8.1441097"
+       sodipodi:arg1="3.1415927"
+       sodipodi:arg2="4.1887902"
+       inkscape:flatsided="true"
+       inkscape:rounded="-1.0408341e-17"
+       inkscape:randomized="0"
+       d="m 310.49614,265.45334 24.43233,-14.10601 0,28.21202 z"
+       inkscape:transform-center-x="3.5223277"
+       transform="translate(-42.426403,68.690369)"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4194"
+       width="22.223356"
+       height="40.911179"
+       x="122.24876"
+       y="148.78073"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4196"
+       width="56.568542"
+       height="25.75889"
+       x="150.00766"
+       y="173.52946"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4198"
+       width="17.67767"
+       height="19.192898"
+       x="177.78685"
+       y="151.30611"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4200"
+       width="22.223356"
+       height="51.51778"
+       x="201.02036"
+       y="147.77058"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4202"
+       width="19.697977"
+       height="10.606602"
+       x="150.02795"
+       y="148.88226"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4204"
+       width="59.598999"
+       height="14.142136"
+       x="231.83"
+       y="147.2655"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4206"
+       width="17.67767"
+       height="25.75889"
+       x="230.86047"
+       y="169.48886"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4208"
+       width="16.667517"
+       height="24.243662"
+       x="254.59906"
+       y="169.48886"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4210"
+       width="9.5964489"
+       height="8.0812206"
+       x="278.31732"
+       y="169.99393"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4212"
+       width="93.944183"
+       height="12.626906"
+       x="106.57109"
+       y="396.77319"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4214"
+       width="18.182745"
+       height="56.063465"
+       x="208.5965"
+       y="397.27826"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4216"
+       width="55.558392"
+       height="17.172594"
+       x="232.84016"
+       y="415.96606"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4218"
+       width="12.121831"
+       height="12.626906"
+       x="232.84016"
+       y="396.77319"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4220"
+       width="12.121831"
+       height="12.121831"
+       x="252.53813"
+       y="397.78333"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4222"
+       width="20.708128"
+       height="19.192898"
+       x="177.78685"
+       y="414.95593"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4224"
+       width="26.769043"
+       height="39.39595"
+       x="107.58125"
+       y="414.95593"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4226"
+       width="33.335033"
+       height="10.606602"
+       x="139.90613"
+       y="415.461"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4230"
+       width="11.616755"
+       height="32.829956"
+       x="140.91628"
+       y="422.53207"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4232"
+       width="40.406101"
+       height="15.657365"
+       x="158.59395"
+       y="438.69452"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4234"
+       width="18.687822"
+       height="18.687822"
+       x="260.11429"
+       y="436.16913"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/crosshairMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4238"
+       sodipodi:cx="549"
+       sodipodi:cy="242.36218"
+       sodipodi:rx="105.3"
+       sodipodi:ry="105.3"
+       d="m 654.3,242.36218 a 105.3,105.3 0 1 1 -210.6,0 105.3,105.3 0 1 1 210.6,0 z"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4240"
+       sodipodi:cx="549"
+       sodipodi:cy="242.36218"
+       sodipodi:rx="99.449997"
+       sodipodi:ry="99.449997"
+       d="m 648.45,242.36218 a 99.449997,99.449997 0 1 1 -198.9,0 99.449997,99.449997 0 1 1 198.9,0 z"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4242"
+       width="93.599998"
+       height="11.7"
+       x="549"
+       y="236.51218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4244"
+       width="87.75"
+       height="11.7"
+       x="461.25"
+       y="236.51219"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4251"
+       width="11.7"
+       height="87.75"
+       x="543.15002"
+       y="148.76218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4253"
+       width="11.7"
+       height="87.75"
+       x="543.15002"
+       y="248.21219"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4255"
+       width="76.050003"
+       height="23.4"
+       x="560.70001"
+       y="207.26218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4257"
+       width="23.4"
+       height="76.050003"
+       x="513.90002"
+       y="254.06218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4259"
+       width="17.549999"
+       height="17.549999"
+       x="560.70001"
+       y="248.21219"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4261"
+       width="58.5"
+       height="23.4"
+       x="560.70001"
+       y="178.01218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4263"
+       width="11.7"
+       height="23.4"
+       x="560.70001"
+       y="148.76218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4265"
+       width="23.4"
+       height="11.7"
+       x="578.25"
+       y="160.46219"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4269"
+       width="23.4"
+       height="58.5"
+       x="484.64999"
+       y="254.06218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4271"
+       width="23.4"
+       height="11.7"
+       x="455.39999"
+       y="254.06218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4273"
+       width="11.700018"
+       height="17.550018"
+       x="467.10001"
+       y="271.61218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4275"
+       width="17.549999"
+       height="17.549999"
+       x="578.25"
+       y="265.76218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4277"
+       width="17.550013"
+       height="17.549988"
+       x="595.79999"
+       y="283.31219"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4279"
+       width="17.549999"
+       height="17.549999"
+       x="560.70001"
+       y="283.31219"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4281"
+       width="17.549999"
+       height="17.549999"
+       x="578.25"
+       y="300.86218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4285"
+       width="17.549999"
+       height="17.549999"
+       x="595.79999"
+       y="248.21219"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4287"
+       width="17.549999"
+       height="17.549999"
+       x="613.34998"
+       y="265.76218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4289"
+       width="46.799999"
+       height="17.549999"
+       x="496.35001"
+       y="166.31218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4291"
+       width="17.549999"
+       height="17.549999"
+       x="496.35001"
+       y="183.86218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4293"
+       width="17.549999"
+       height="40.950001"
+       x="519.75"
+       y="189.71219"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4295"
+       width="40.950001"
+       height="11.7"
+       x="472.95001"
+       y="218.96219"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4297"
+       width="11.7"
+       height="35.099998"
+       x="478.79999"
+       y="178.01218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4299"
+       width="5.8499999"
+       height="23.4"
+       x="467.10001"
+       y="195.56218"
+       inkscape:export-filename="/Users/foundway/Documents/Projects/Sandbox/Assets/Textures/revoloverMarker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
